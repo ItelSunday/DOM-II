@@ -1,14 +1,13 @@
 # DOM II - Event Exploration
 
   
-
+Client:
 Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
 
   
 
 ## Task 1: Set Up The Project With Git
 
-  
 
 * [ ] Fork the project into your GitHub user account
 
