@@ -8,7 +8,6 @@ Fun Bus wants you to make their site more interactive. They are relying on you t
 
 ## Task 1: Set Up The Project With Git
 
-  
 
 * [ ] Fork the project into your GitHub user account
 
